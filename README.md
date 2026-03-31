@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kashish 👋
 
-<!--
-**kashishcrafts/kashishcrafts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+🚀 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## 🧠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Data Analysis
+* Web Development (HTML, CSS, basic JS)
+
+## 💻 Projects
+
+* Expense Tracker (working on it 🚧)
+
+## 🌱 Currently Learning
+
+* Data Science
+* DSA
+* Web Development
+
