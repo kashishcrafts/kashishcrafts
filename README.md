@@ -1,7 +1,7 @@
 # Hi, I'm Kashish 👋
 
 🎓 Computer Engineering Student
-🚀 Aspiring Data Scientist
+🚀 Aspiring Data Engineer
 
 ## 🧠 Skills
 
@@ -10,13 +10,10 @@
 * Data Analysis
 * Web Development (HTML, CSS, basic JS)
 
-## 💻 Projects
-
-* Expense Tracker (working on it 🚧)
 
 ## 🌱 Currently Learning
 
-* Data Science
+* Data Engineer
 * DSA
 * Web Development
 
