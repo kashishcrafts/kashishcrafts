@@ -1,7 +1,7 @@
 # Hi, I'm Kashish 👋
 
 🎓 Computer Engineering Student
-🚀 Aspiring Data Engineer
+🚀 Data Engineer
 
 ## 🧠 Skills
 
@@ -16,4 +16,5 @@
 * Data Engineer
 * DSA
 * Web Development
+* Cyber Security
 
