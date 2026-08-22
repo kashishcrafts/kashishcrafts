@@ -1,20 +1,19 @@
 # Hi, I'm Kashish 👋
 
 🎓 Computer Engineering Student
-🚀 Data Engineer
+🚀 AIML Engineer
 
 ## 🧠 Skills
 
 * Python
 * SQL
 * Data Analysis
-* Web Development (HTML, CSS, basic JS)
+
 
 
 ## 🌱 Currently Learning
 
-* Data Engineer
+* AIML Engineer
 * DSA
-* Web Development
 * Cyber Security
 
