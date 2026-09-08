@@ -2,21 +2,24 @@ name: Generate Butterfly Animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # daily update
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    
     steps:
-      - name: Generate snake animation
+      - name: Generate butterfly animation
         uses: Platane/snk@v3
         with:
           github_user_name: kashishcrafts
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-butterfly.svg?color_snake=#d8b4fe&color_dots=#161b22,#4c1d95,#7e22ce,#a855f7,#c084fc
+            dist/github-contribution-grid-butterfly-dark.svg?color_snake=#f472b6&color_dots=#0d1117,#581c87,#7e22ce,#c084fc,#f472b6
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
