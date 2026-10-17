@@ -17,6 +17,12 @@
 * DSA
 * Cyber Security
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashishcrafts/kashishcrafts/output/github-contribution-grid-butterfly-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashishcrafts/kashishcrafts/output/github-contribution-grid-butterfly.svg">
+  <img alt="github contribution butterfly animation" src="https://raw.githubusercontent.com/kashishcrafts/kashishcrafts/output/github-contribution-grid-butterfly.svg">
+</picture>
+
 🌐 Let's Stay Connected:
 ***
 
@@ -26,21 +32,3 @@
 
 ***
 
-💻 Tech Stack:
-***
-
-[![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![SELENIUM](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
-
-
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashishcrafts/kashishcrafts/output/github-contribution-grid-butterfly-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashishcrafts/kashishcrafts/output/github-contribution-grid-butterfly.svg">
-  <img alt="github contribution butterfly animation" src="https://raw.githubusercontent.com/kashishcrafts/kashishcrafts/output/github-contribution-grid-butterfly.svg">
-</picture>
